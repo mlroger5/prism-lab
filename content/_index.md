@@ -1,67 +1,25 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      title: <br><b>Welcome to the PRISM Lab!
+      subtitle: (Prevention and Research in Suicide Mechanisms)</b>
     design:
-      view: card
       columns: '1'
+      background:
+        image:
+          filename: background-2.jpg
+        filters:
+          brightness: 0
   
   - block: markdown
     content:
       title:
       subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      text: Our research aims to understand, improve the assessment of, and intervene upon processes that confer risk for suicidal ideation, intent, and behaviors. We utilize a transdiagnostic framework to better understand suicide risk, meaning that we do not rely on symptoms from any one (or set) of psychological disorders. <b>Our ultimate goal is to reduce rates of suicidal thoughts, attempts, and deaths.</b><br><br> Our research is guided by two primary questions - <br><br><center><b> 1. What contributes to the development and maintenance of suicidal thoughts?<br>2. When (and under what circumstances) do transitions from suicidal thoughts to actions occur?</b></center><br>Please browse our website to learn more about our ongoing projects, meet the research team, and get involved.
+
 ---
