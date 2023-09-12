@@ -22,19 +22,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Add research interests here
+bio: Olivia’s research interests include suicide, substance use, and psychopathology, with a primary focus on the experiences of justice-involved individuals.
 
 interests:
-  - Add
-  - Interests
-  - Here
+  - Forensic Psychology
+  - Suicide
+  - Substance Use
+  - Psychopathology
 
 education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
       year: 2025 (Expected)
-    - course: BS in Psychology
+    - course: BS in Psychology and BS in Criminology
       institution: Florida State University
       year: 2021
 
@@ -62,4 +63,8 @@ user_groups:
   - Graduate Students
 ---
 
-Add longer biography here.
+Olivia Teasdale is a first-year student in the Master of Arts in Psychological Research program at Texas State University. She completed her Bachelors degrees in Psychology and Criminology at Florida State University and has been committed to psychological research since seeking out the Undergraduate Research Opportunity Program her freshman year. Olivia’s research interests include suicide, substance use, and psychopathology, with a primary focus on the experiences of justice-involved individuals.
+
+Following her Masters, Olivia plans to pursue a PhD in Clinical Psychology with a Forensic Psychology concentration, or enter the work force as a Data Analyst in healthcare or clinical research.
+
+For fun, Olivia enjoys going on long walks, embroidering, and spending time with loved ones (including her cats!).

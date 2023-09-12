@@ -5,6 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: <br><b>Meet the Lab</b>
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: background-2.jpg
+        filters:
+          brightness: 0
+
   - block: people
     content:
       # Choose which groups/teams of users to display.
