@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Research Assistants
 ---
 
 Julia Penn is a graduate student in the Psychological Research program at Texas State University. Prior to Texas State, Julia graduated from Duke University with a Bachelor of Arts in Psychology. Her research interests are focused on the etiology, phenomenology, and treatment of borderline personality disorder. Julia most recently worked at the 3East DBT Continuum, a continuum of programs for young women with emerging borderline personality disorder and high-risk behaviors, at McLean Hospital.
