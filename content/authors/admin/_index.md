@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab Director
+  - Principal Investigator
 ---
 
 Dr. Megan Rogers is a tenure-track Assistant Professor in the Department of Psychology at Texas State University. As a clinical psychologist with advanced training in quantitative methods, her research broadly aims to understand, improve the assessment of, and intervene upon processes that confer risk for suicidal ideation, intent, and behavior, with an emphasis on the nature and precipitating factors of acute suicidal crises.
