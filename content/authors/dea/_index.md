@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Research Faculty
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dea's research interests broadly include examining self-injurious thoughts and behaviors (SITB) and non-suicidal self-injury (NSSI) in youth and minority populations.
+bio: Dea Mitaj is a Lecturer at Texas State University and a recent graduate of the Psychological Research program at Texas State University. Her research interests broadly include examining self-injurious thoughts and behaviors (SITB) and non-suicidal self-injury (NSSI) in various populations. In addition, she is interested in the development, improvement, and validation of novel methods pertaining to suicidal behaviors. Dea plans to pursue a PhD in Clinical Psychology, concentrating her research on factors influencing the persistence of suicidal thoughts and behaviors. In her free time, Dea loves to cook and bake, find hidden gems outdoors, go swimming with her dog Oliver, and spend time with loved ones!
 
 interests:
   - Suicide
   - Non-Suicidal Self-Injury
-  - Youth Populations
-  - Minority Populations
+  - Novel Methodologies
+  - Marginalized Populations
 
 education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2024 (Expected)
+      year: 2024
     - course: BS in Psychology
       institution: Texas State University
       year: 2022
