@@ -60,10 +60,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Research Assistants
 ---
 
-Olivia Teasdale is a first-year student in the Master of Arts in Psychological Research program at Texas State University. She completed her Bachelors degrees in Psychology and Criminology at Florida State University and has been committed to psychological research since seeking out the Undergraduate Research Opportunity Program her freshman year. Olivia’s research interests include suicide, substance use, and psychopathology, with a primary focus on the experiences of justice-involved individuals.
+Olivia Teasdale is a second-year student in the Master of Arts in Psychological Research program at Texas State University. She completed her Bachelors degrees in Psychology and Criminology at Florida State University and has been committed to psychological research since seeking out the Undergraduate Research Opportunity Program her freshman year. Olivia’s research interests include suicide, substance use, and psychopathology, with a primary focus on the experiences of justice-involved individuals.
 
 Following her Masters, Olivia plans to pursue a PhD in Clinical Psychology with a Forensic Psychology concentration, or enter the work force as a Data Analyst in healthcare or clinical research.
 
