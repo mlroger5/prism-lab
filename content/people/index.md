@@ -25,6 +25,7 @@ sections:
           - Research Faculty
           - Graduate Research Assistants
           - Undergraduate Research Assistants
+          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

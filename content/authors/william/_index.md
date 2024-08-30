@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Lab Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2024 (Expected)
+      year: 2024
     - course: BA in Psychology
       institution: Texas State University
       year: 2022
@@ -59,11 +59,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Lab Alumni
 ---
 
-William Murley is a second-year graduate student in the Master of Arts in Psychological Research program at Texas State University. William’s research interests focus primarily on disordered eating, substance use, and suicide. He is firmly committed to serving underrepresented populations and is particularly interested in conducting research that benefits sexual and gender minorities.
-
-William plans to pursue a PhD in Clinical or Health Psychology to continue his research on disordered eating. He previously graduated summa cum laude through the Honors College with a Bachelor of Arts in Psychology and a minor in Philosophy at Texas State University.
-
-Outside of school, you will most likely find William reading literary classics, playing chess, or gardening.

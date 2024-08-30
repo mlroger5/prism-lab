@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Lab Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2024 (Expected)
+      year: 2024
     - course: BS in Psychology
       institution: Georgia Southern University
       year: 2019
@@ -60,9 +60,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Alumni
 ---
 
-Melissa Harel is a second-year graduate student in the Master of Arts in Psychological Research program at Texas State University. Before Texas State, Melissa received her BS in psychology from Georgia Southern University, with special research interest in physiological psychology. Her current research interests involve the bidirectional relationship between health behaviors and psychological well-being, which extends to depression, anxiety, and suicidality. She is particularly focused on the impact of exercise on the mind-body connection.
-
-Post-graduation, Melissa envisions a career in research and data analysis within public health, behavioral health, or wellness sectors, driven by her goal to enhance both mental and physical well-being for everyone. Beyond academia, she enjoys running, dancing, and quality time with loved ones and her two cats. 
