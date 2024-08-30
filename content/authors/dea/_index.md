@@ -60,11 +60,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Research Faculty
 ---
 
-Dea Mitaj is a second-year graduate student in the Psychological Research program at Texas State University. Dea graduated from Texas State University with a Bachelor of Science in Psychology and a minor in Anthropology. Her research interests broadly include examining self-injurious thoughts and behaviors (SITB) and non-suicidal self-injury (NSSI) in youth and minority populations. Dea is also a part of the Learning in Context Lab at Texas State, examining how parents' attitudes and beliefs influence their children's development.
+Dea Mitaj is a Lecturer at Texas State University and a recent graduate of the Psychological Research program at Texas State University. Her research interests broadly include examining self-injurious thoughts and behaviors (SITB) and non-suicidal self-injury (NSSI) in various populations. In addition, she is interested in the development, improvement, and validation of novel methods pertaining to suicidal behaviors. 
 
-Following her master's program, Dea plans to pursue a PhD in Clinical Psychology, concentrating her research on factors influencing youth suicidality.
+Dea plans to pursue a PhD in Clinical Psychology, concentrating her research on factors influencing the persistence of suicidal thoughts and behaviors. 
 
-In her free time, Dea loves to cook, be outdoors, and spend time with friends, family, and her two dogs! 
+In her free time, Dea loves to cook and bake, find hidden gems outdoors, go swimming with her dog Oliver, and spend time with loved ones!
