@@ -68,3 +68,5 @@ Olivia Teasdale is a second-year student in the Master of Arts in Psychological 
 Following her Masters, Olivia plans to pursue a PhD in Clinical Psychology with a Forensic Psychology concentration, or enter the work force as a Data Analyst in healthcare or clinical research.
 
 For fun, Olivia enjoys going on long walks, embroidering, and spending time with loved ones (including her cats!).
+
+Olivia currently serves as one of the PRISM Lab Managers.
