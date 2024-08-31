@@ -59,6 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab Alumni
+  - Alumni
 ---
 
+William is currently pursuing a PhD in Health Psychology at the University of California, Los Angeles (UCLA).
