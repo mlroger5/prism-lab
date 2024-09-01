@@ -1,7 +1,7 @@
 ---
-title: Research
+title: Test
 
-type: 
+type: landing
 
 sections:
   - block: markdown
