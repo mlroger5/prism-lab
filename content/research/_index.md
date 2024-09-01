@@ -1,7 +1,7 @@
 ---
 title: Research
 
-type: landing
+type: 
 
 sections:
   - block: markdown
