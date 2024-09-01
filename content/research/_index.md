@@ -1,7 +1,4 @@
 ---
-title: Test
-
-type: landing
 
 sections:
   - block: markdown
