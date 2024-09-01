@@ -10,11 +10,8 @@ main:
   - name: Research
     url: research
     weight: 30
-  - name: News
-    url: post
-    weight: 40
   - name: Publications
-    url: publication
+    url: https://scholar.google.com/citations?user=3ARhUFoAAAAJ&hl=en
     weight: 50
   - name: Join
     url: join
