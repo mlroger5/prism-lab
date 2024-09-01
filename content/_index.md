@@ -12,7 +12,7 @@ sections:
       columns: '1'
       background:
         image:
-          filename: assets\media\background-2.jpg
+          filename: background-2.jpg
         filters:
           brightness: 0
   
