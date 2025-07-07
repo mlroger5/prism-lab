@@ -59,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Research Assistants
 ---
 
 Kendal Parkhurst is a first year graduate student in the Master of Arts in Psychological Research (MAPR) program at Texas State University. She is passionate about research in suicidology, with a particular focus on bereavement and its impact on individuals and family dynamics. Outside of her academic pursuits, Kendal enjoys crafting, reading, and spending quality time with her loved ones.
