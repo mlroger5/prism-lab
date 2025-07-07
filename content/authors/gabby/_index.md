@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Research Assistants
 ---
 
 Gabby is a graduate student in the Master of Arts in Psychological Research (MAPR) program. Gabby is particularly passionate about neuropsychology and aims to pursue a career in the field, exploring the connections between brain function, behavior, and mental health. 
