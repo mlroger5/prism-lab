@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Research Assistants
+  - Alumni
 ---
 
-Kesiena Oniovosa is a junior at Texas State University with a Psychology major and a Social Change through Applied Research minor. She loves watching cartoons, crocheting, and drawing.
+Kesiena Oniovosa was an undergraduate research assistant in the PRISM Lab from January 2024 - May 2025.

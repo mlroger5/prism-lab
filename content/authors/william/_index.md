@@ -42,10 +42,6 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:williammurley@txstate.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,4 +58,4 @@ user_groups:
   - Alumni
 ---
 
-William is currently pursuing a PhD in Health Psychology at the University of California, Los Angeles (UCLA).
+William was a graduate research assistant in the PRISM Lab from March 2023 - August 2024. He is currently pursuing a PhD in Health Psychology at the University of California, Los Angeles (UCLA).
