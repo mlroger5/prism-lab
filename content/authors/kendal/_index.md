@@ -24,11 +24,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Kendal is a senior at Texas State University majoring in Psychology.
 
-#interests:
-#  - Forensic Psychology
-#  - Suicide
-#  - Substance Use
-#  - Psychopathology
+interests:
+  - Suicide
+  - Bereavement
+  - Family Dynamics
 
 education:
   courses:

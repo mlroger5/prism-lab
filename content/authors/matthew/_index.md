@@ -37,7 +37,7 @@ education:
       year: 2025 (Expected)
     - course: BS in Psychology
       institution: University of North Texas
-      year: 
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

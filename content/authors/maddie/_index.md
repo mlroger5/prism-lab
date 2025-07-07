@@ -60,4 +60,4 @@ user_groups:
   - Undergraduate Research Assistants
 ---
 
-Maddie Wootan is a student at Texas State University, with a double major in Psychology and Criminal Justice. She enjoys live music, hanging out with her friends, and anything true crime.
+Maddie Wootan is a student at Texas State University, with a double major in Psychology and Criminal Justice. She is currently completing a funded research fellowship examining the association between intimate partner violence and suicide-related outcomes among at-risk college students. She enjoys live music, hanging out with her friends, and anything true crime.

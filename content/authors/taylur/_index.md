@@ -61,9 +61,10 @@ email: ''
 user_groups:
   - Graduate Research Assistants
 ---
+Taylur Loera is a second-year graduate student in the MAPR program at Texas State University. She previously graduated from Texas A&M University- San Antonio with a Bachelor of Science degree in Psychology. Her research interests include suicide, substance use, and disordered eating.
 
-Taylur Loera is a first-year graduate student in the Master of Arts in Psychological Research program at Texas State University. Taylur previously graduated from Texas A&M University - San Antonio with a Bachelor of Science in Psychology. Her research interests focus primarily on substance use, disordered eating, and suicide. Taylur is committed to improving health outcomes in underrepresented communities. 
+After completing her masters, Taylur plans to obtain a PhD in Clinical Psychology. 
 
-After graduate school, Taylur plans to obtain a PhD in Clinical Psychology, with the intention to integrate research, clinical practice, and teaching.
+In her free time, Taylur enjoys yoga and spending time outdoors.
 
-In her free time, Taylur enjoys traveling, reading, and spending time outdoors.
+Taylur also currently serves as one of the PRISM Lab Managers
