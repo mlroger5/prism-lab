@@ -63,8 +63,8 @@ user_groups:
   - Graduate Research Assistants
 ---
 
-Hannah is a second-year graduate student in the Master of Arts in Psychological Research program at Texas State University, having previously earned her Bachelor of Psychology degree from the same institution. Her research interests center around suicide, psychopathology, and health psychology, with a focus on enhancing the quality of life for older adults and examining their interactions with the healthcare systems in the context of psychopathology and suicide.
+Hannah is a second-year graduate student in the Psychological Research program at Texas State University. Her research interests focus on how healthcare practices impact mental health outcomes, with a particular emphasis on suicidality and nondisclosure among aging populations. 
 
-Upon completing her master's degree, her goal is to pursue a PhD in Clinical Psychology with a focus on Health Psychology, specializing in older adults and psychopathology. Alternatively, she is considering entering the industry to contribute to clinical and healthcare research.
+Upon graduation, Hannah plans to pursue a PhD in Clinical Psychology to expand on this work and bridge the gap between the patient experience and clinical practice. 
 
-In her free time, Hannah loves to attend concerts, exploring the outdoors, and hang out with friends.
+Outside of research, Hannah enjoys crate-digging for vinyl, spending time in nature, and live music.
