@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cice Thompson is a senior at Texas State University majoring in Psychology.
+bio: Cice Thompson is a recent graduate of Texas State University with a degree in Psychology.
 
 #interests:
 #  - Forensic Psychology
@@ -34,7 +34,7 @@ education:
   courses:
     - course: BA in Psychology
       institution: Texas State University
-      year: 2025 (Expected)
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,4 +60,6 @@ user_groups:
   - Undergraduate Research Assistants
 ---
 
-Cice Thompson is a senior at Texas State University majoring in Psychology. Her plans after graduation are to go to graduate school and get her Masters in Psychological Research. Outside of school, Cice loves all things related to art and staying active.
+Cice Thompson is a recent graduate of Texas State University with a Bachelors of Science degree in Psychology. She plans on perusing her Masters of Arts in Psychology Research and PhD in Clinical Psychology. 
+
+Outside of her work and lab responsibilities, she enjoys all art related hobbies such as drawing, crocheting, and embroidery as well as staying active.

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adelina is a senior majoring in Psychology.
+bio: Adelina was an undergraduate research assistant in the PRISM Lab from January 2024 - May 2025.
 
 #interests:
 #  - Forensic Psychology
@@ -34,7 +34,7 @@ education:
   courses:
     - course: BA in Psychology
       institution: Texas State University
-      year: 2025 (Expected)
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Research Assistants
+  - Alumni
 ---
 
-Adelina Jaramillo is a senior at Texas State University majoring in Psychology. Her plan after graduation is to get her Masters in Psychological Research. She loves spending her free time working out, hanging out with her friends, and writing.
+Adelina Jaramillo was an undergraduate research assistant in the PRISM Lab from January 2024 - May 2025. She is currently a graduate student in the Master of Arts in Psychological Research program at Texas State University, working under the mentorship of Dr. Jessica Perrotte.
