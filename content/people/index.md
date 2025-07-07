@@ -23,7 +23,7 @@ sections:
           - Principal Investigator
           - Research Faculty
           - Graduate Research Assistants
-          - Undergraduate Research Assistants
+          - Undergraduate and Post-Baccalaureate Research Assistants
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true

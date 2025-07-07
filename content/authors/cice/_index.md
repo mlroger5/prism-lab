@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Research Assistants
+  - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
 Cice Thompson is a recent graduate of Texas State University with a Bachelors of Science degree in Psychology. She plans on perusing her Masters of Arts in Psychology Research and PhD in Clinical Psychology. 

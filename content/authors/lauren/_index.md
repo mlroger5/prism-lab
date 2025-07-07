@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Research Assistants
+  - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
 Lauren Pischinger is a current senior pursuing her Bachelor of Science in Psychology at Texas State University. She plans to seek a master’s degree in clinical psychology after graduation. Her research interests include neuropsychology and traumatic brain injury (TBI) effects on typical functioning.

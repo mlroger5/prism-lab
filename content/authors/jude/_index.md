@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Research Assistants
+  - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
 Jude Stewart is a recent graduate of the University of Texas at Austin with a BA in Psychology and a minor in LGBTQ+ Studies. They want to focus on trauma in the LGBTQ+ community, specifically how trauma related to having a queer identity shapes mental health and whether trauma at a young age impacts identity in later development. 
