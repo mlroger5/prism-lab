@@ -1,40 +1,58 @@
-/* assets/css/custom.css */
+/* ==============================
+   PRISM Lab Custom Colors
+   Header Black / Body White
+   Overrides Wowchemy Dark Mode
+   ============================== */
 
-/* Force page background and text */
-:root {
-    --color-bg: #ffffff !important;           /* default page background */
-    --color-text: #000000 !important;         /* default text color */
-    --color-header-bg: #000000 !important;    /* header background */
-    --color-header-text: #ffffff !important;  /* header text */
-}
-
-/* Force body and all containers to white/black */
-body, main, .content, .container, .site-wrapper {
+/* ----- Force body and page wrapper to white ----- */
+body.page-wrapper,
+body.page-wrapper.dark,
+.page-body,
+main,
+.content,
+.container,
+.site-wrapper {
     background-color: #ffffff !important;
     color: #000000 !important;
 }
 
-/* Target actual header wrapper */
-.site-header, .navbar, .topbar, .site-nav, header {
-    background-color: #000000 !important; /* pure black */
-    color: #ffffff !important;
+/* ----- Page header / navbar ----- */
+.page-header,
+.page-header header,
+.navbar,
+.navbar.navbar-light,
+.navbar.navbar-expand-lg {
+    background-color: #000000 !important; /* pure black header */
+    color: #ffffff !important;            /* text white */
+    box-shadow: none !important;          /* optional: remove shadow */
 }
 
-/* Header links */
-.site-header a, .navbar a, .topbar a, .site-nav a {
-    color: #ffffff !important;
+/* ----- Header links / menu items ----- */
+.page-header a,
+.navbar a,
+.navbar-nav .nav-link {
+    color: #ffffff !important;            /* links white */
 }
 
-/* Remove overlays or pseudo-elements */
-.site-header::before,
+/* Hover effects keep working */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    color: #ffffff !important;            /* ensure hover text stays white */
+}
+
+/* ----- Remove header overlays or pseudo-elements ----- */
+.page-header::before,
 .navbar::before,
-.topbar::before,
-header::before {
+.page-header header::before {
     background: none !important;
 }
 
-/* Footer white */
-footer, .site-footer {
+/* ----- Footer matches page background ----- */
+footer,
+.site-footer,
+footer a {
     background-color: #ffffff !important;
     color: #000000 !important;
 }
+
+/* ----- Optional: code blocks and other containers ----*
