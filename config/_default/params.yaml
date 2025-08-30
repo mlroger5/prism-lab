@@ -12,13 +12,6 @@ appearance:
   font_size: L
   custom_css: ["css/custom.css"]
 
-# Theme
-theme:
-  menu_primary: "#000000"
-  menu_text: "#FFFFFF"
-  menu_text_active: "#FFFFC5"
-  menu_title: "#FFFFFF"
-
 # SEO
 
 marketing:
@@ -45,9 +38,9 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
