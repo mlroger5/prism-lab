@@ -3,7 +3,7 @@
 /* Make header fully black */
 header.site-header,
 header.navbar {
-    background-color: #000000 !important; /* fully opaque black */
+    background-color:#0000FF !important; /* fully opaque black */
     color: #ffffff !important;            /* text/icons white */
     box-shadow: none !important;          /* remove default shadow if needed */
 }
@@ -17,7 +17,7 @@ header.navbar a {
 /* Remove header transparency/overlay if any */
 header.site-header::before,
 header.navbar::before {
-    background: none !important;
+    background: #000000 !important;
 }
 
 /* Main page background white */
