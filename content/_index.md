@@ -7,7 +7,7 @@ sections:
   - block: markdown
     content:
       title: <br><b><font color="#FFFFFF">Welcome to the PRISM Lab!</font>
-      subtitle: (Prevention and Research in Suicide Mechanisms)</b>
+      subtitle: <font color="#D3D3D3">(Prevention and Research in Suicide Mechanisms)</font></b>
     design:
       columns: '1'
       background:
