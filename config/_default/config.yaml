@@ -6,6 +6,11 @@
 title: PRISM Lab # Website name
 baseURL: 'https://example.com/' # Website URL
 
+theme_day: ""
+theme_night: ""
+params:
+  custom_css: ["css/custom.css"]
+
 ############################
 ## LANGUAGE
 ############################
