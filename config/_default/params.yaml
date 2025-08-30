@@ -11,6 +11,13 @@ appearance:
   font: native
   font_size: L
 
+# Theme
+theme:
+  menu_primary: "#000000"
+  menu_text: "#FFFFFF"
+  menu_text_active: "#FFFFC5"
+  menu_title: "#FFFFFF"
+
 # SEO
 
 marketing:
