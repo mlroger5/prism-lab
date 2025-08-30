@@ -6,10 +6,11 @@
 title: PRISM Lab # Website name
 baseURL: 'https://example.com/' # Website URL
 
+# -----------------------------
+# Disable Wowchemy default themes
+# -----------------------------
 theme_day: ""
 theme_night: ""
-params:
-  custom_css: ["css/custom.css"]
 
 ############################
 ## LANGUAGE
@@ -75,5 +76,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+# -----------------------------
+# Custom CSS for header/body colors
+# -----------------------------
 params:
   custom_css: ["css/custom.css"]

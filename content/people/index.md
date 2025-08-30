@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: <br><b>Meet the Lab</b>
+      title: <br><b><font color="#FFFFFF">Meet the Lab</font></b>
     design:
       columns: '1'
       background:
