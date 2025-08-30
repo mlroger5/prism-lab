@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Julia Penn
+title: Mary Prochazka
 
 # Full name (for SEO)
-first_name: Julia
-last_name: Penn
+first_name: Mary
+last_name: Prochazka
 
 # Username (this should match the folder name)
 authors:
-  - julia
+  - mary
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,19 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Julia's research interests are focused on the etiology, phenomenology, and treatment of borderline personality disorder.
+bio: Mary is interested in trauma research, specifically how Borderline Personality Disorder presents itself in and affects underrepresented populations.
 
 interests:
+  - Trauma
   - Borderline Personality Disorder
+  - Sexual Minorities
 
 education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2025 (Expected)
+      year: 2027 (Expected)
     - course: BA in Psychology
-      institution: Duke University
-      year: 2019
+      institution: St. Edward's University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hcz12@txstate.edu'
+    link: 'mailto:marypro@txstate.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,8 +62,8 @@ user_groups:
   - Graduate Research Assistants
 ---
 
-Julia Penn is a graduate student in the Psychological Research program at Texas State University. Prior to Texas State, Julia graduated from Duke University with a Bachelor of Arts in Psychology. Her research interests are focused on the etiology, phenomenology, and treatment of borderline personality disorder. Julia most recently worked at the 3East DBT Continuum, a continuum of programs for young women with emerging borderline personality disorder and high-risk behaviors, at McLean Hospital.
+Mary Prochazka is a first-year graduate student in the Master of Arts in Psychological Research (MAPR) program at Texas State University. Broadly, she is interested in trauma research. Specifically, how Borderline Personality Disorder presents itself in and affects underrepresented populations. 
 
-Julia enjoys spending time with her family and Labrador retriever Henry. She also likes to exercise and be outdoors.
+Upon graduation from the program, Mary aims to obtain a PhD in Clinical Psychology to further this research.
 
-Julia also serves as one of the PRISM Lab Managers.
+Outside of her studies, Mary enjoys reading, listening to music, and baking

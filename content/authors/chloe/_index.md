@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Julia Penn
+title: Chloe Uelman
 
 # Full name (for SEO)
-first_name: Julia
-last_name: Penn
+first_name: Chloe
+last_name: Uelman
 
 # Username (this should match the folder name)
 authors:
-  - julia
+  - chloe
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,19 +22,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Julia's research interests are focused on the etiology, phenomenology, and treatment of borderline personality disorder.
+bio: Chloe's research interests are focused on psychopathology, particularly in individuals with bipolar disorder.
 
 interests:
-  - Borderline Personality Disorder
+  - Bipolar Disorder
+  - Psychopathology
 
 education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2025 (Expected)
-    - course: BA in Psychology
-      institution: Duke University
-      year: 2019
+      year: 2027 (Expected)
+    - course: BS in Psychology
+      institution: University of Texas at Austin
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hcz12@txstate.edu'
+    link: 'mailto:cuelman@txstate.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,8 +61,8 @@ user_groups:
   - Graduate Research Assistants
 ---
 
-Julia Penn is a graduate student in the Psychological Research program at Texas State University. Prior to Texas State, Julia graduated from Duke University with a Bachelor of Arts in Psychology. Her research interests are focused on the etiology, phenomenology, and treatment of borderline personality disorder. Julia most recently worked at the 3East DBT Continuum, a continuum of programs for young women with emerging borderline personality disorder and high-risk behaviors, at McLean Hospital.
+Chloe Uelman is a first-year graduate student in the Master of Arts in Psychological Research (MAPR) Program at Texas State University. Previously, she attended the University of Texas at Austin where she earned her B.S. in Psychology with a minor in Social Work. Her research interests are focused on psychopathology, particularly in individuals with bipolar disorder. 
 
-Julia enjoys spending time with her family and Labrador retriever Henry. She also likes to exercise and be outdoors.
+After graduating from the MAPR Program, she hopes to pursue a Ph.D. in Clinical Psychology. 
 
-Julia also serves as one of the PRISM Lab Managers.
+In her free time, Chloe loves reading, going on walks, and spending time with friends.

@@ -61,7 +61,7 @@ user_groups:
   - Graduate Research Assistants
 ---
 
-Scarlett is a first-year graduate student in the Master of Psychological Research program at Texas State University. Scarlett’s research interests include suicide and substance use.
+Scarlett is a second-year graduate student in the Master of Psychological Research program at Texas State University. Scarlett’s research interests include suicide, help-seeking, and substance use.
 
 After she graduates, Scarlett plans to pursue a doctoral degree in Clinical Psychology. 
 

@@ -67,4 +67,4 @@ After completing her masters, Taylur plans to obtain a PhD in Clinical Psycholog
 
 In her free time, Taylur enjoys yoga and spending time outdoors.
 
-Taylur also currently serves as one of the PRISM Lab Managers
+Taylur also currently serves as one of the PRISM Lab Managers.
