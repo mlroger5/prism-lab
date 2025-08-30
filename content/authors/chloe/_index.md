@@ -35,7 +35,7 @@ education:
       year: 2027 (Expected)
     - course: BS in Psychology
       institution: University of Texas at Austin
-      year: 2024
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
