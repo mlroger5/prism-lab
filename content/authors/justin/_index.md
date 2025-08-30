@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Lab Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2025 (Expected)
+      year: 2025
     - course: BS in Psychology
       institution: Texas State University
       year: 2022
@@ -43,10 +43,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:jht42@txstate.edu'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:jht42@txstate.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,11 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Research Assistants
+  - Alumni
 ---
 
-Justin Tran is a second-year graduate student in the Master of Arts in Psychological Research program at Texas State. In the context of the PRISM lab, he is mostly interested in the development of new interventions for suicide risk assessment and character traits that contribute to suicide risk behavior. He would also like to explore more about how aspects of suicidality differ between different cultures and populations. 
-
-When it comes to hobbies, Justin loves appreciating anything creative like playing instruments, watching movies, and karaoke! He also enjoys playing video games and being active when he can.
-
-Justin is currently one of the PRISM Lab Managers.
+Justin Tran was a graduate research assistant in the PRISM Lab from August 2023 - August 2025. He was also one of the PRISM Lab Managers from June 2024 - June 2025.

@@ -34,7 +34,7 @@ education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2025 (Expected)
+      year: 2025
     - course: BA in Psychology
       institution: Texas State University
       year: 2022
@@ -63,8 +63,8 @@ user_groups:
   - Graduate Research Assistants
 ---
 
-Hannah is a second-year graduate student in the Psychological Research program at Texas State University. Her research interests focus on how healthcare practices impact mental health outcomes, with a particular emphasis on suicidality and nondisclosure among aging populations. 
+Hannah is a recent graduate of the MA in Psychological Research program at Texas State University. Her research interests focus on how healthcare practices impact mental health outcomes, with a particular emphasis on suicidality and nondisclosure among aging populations. 
 
-Upon graduation, Hannah plans to pursue a PhD in Clinical Psychology to expand on this work and bridge the gap between the patient experience and clinical practice. 
+Hannah plans to pursue a PhD in Clinical Psychology to expand on this work and bridge the gap between the patient experience and clinical practice. 
 
 Outside of research, Hannah enjoys crate-digging for vinyl, spending time in nature, and live music.
