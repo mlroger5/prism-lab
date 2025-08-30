@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: <br><b>Welcome to the PRISM Lab!
+      title: <br><b><font color="#FFFFFF">Welcome to the PRISM Lab!</font>
       subtitle: (Prevention and Research in Suicide Mechanisms)</b>
     design:
       columns: '1'
