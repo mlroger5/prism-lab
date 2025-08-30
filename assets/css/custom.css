@@ -1,31 +1,38 @@
-/* Make header/nav background black */
+/* assets/css/custom.css */
+
+/* Make header fully black */
 header.site-header,
-header#navbar-main,
-.navbar {
-  background-color: #000000 !important;
+header.navbar {
+    background-color: #000000 !important; /* fully opaque black */
+    color: #ffffff !important;            /* text/icons white */
+    box-shadow: none !important;          /* remove default shadow if needed */
 }
 
-/* Make nav text white */
-header.site-header .nav-link,
-#navbar-main .nav-link {
-  color: #ffffff !important;
+/* Make links/icons in the header white */
+header.site-header a,
+header.navbar a {
+    color: #ffffff !important;
 }
 
-/* Site title/logo text */
-header.site-header .navbar-brand,
-#navbar-main .navbar-brand,
-.navbar-brand a {
-  color: #ffffff !important;
+/* Remove header transparency/overlay if any */
+header.site-header::before,
+header.navbar::before {
+    background: none !important;
 }
 
-/* Optional: hover/active links use a soft accent */
-header.site-header .nav-link:hover,
-#navbar-main .nav-link:hover,
-#navbar-main .nav-link.active {
-  color: #cccccc !important;
-}
-
-/* Keep the page body background white */
+/* Main page background white */
 body {
-  background-color: #ffffff !important;
+    background-color: #ffffff !important;
+    color: #000000; /* default text color */
+}
+
+/* Optional: content containers */
+main, .content, .container {
+    background-color: #ffffff !important;
+}
+
+/* Optional: Footer matches page background (if you want white footer) */
+footer {
+    background-color: #ffffff !important;
+    color: #000000 !important;
 }
