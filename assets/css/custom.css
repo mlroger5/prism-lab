@@ -1,0 +1,21 @@
+/* Force header/navbar background */
+.navbar {
+  background-color: #000000 !important;
+}
+
+/* Navbar links */
+.navbar .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+/* Site title/logo text */
+.navbar-brand,
+.navbar-brand a {
+  color: #ffffff !important;
+}
+
+/* Optional: hover + active states */
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link.active {
+  color: #ffffc5 !important; /* light yellow accent */
+}
