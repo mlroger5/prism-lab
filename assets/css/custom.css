@@ -1,38 +1,40 @@
 /* assets/css/custom.css */
 
-/* Make header fully black */
-header.site-header,
-header.navbar {
-    background-color:#0000FF !important; /* fully opaque black */
-    color: #ffffff !important;            /* text/icons white */
-    box-shadow: none !important;          /* remove default shadow if needed */
+/* Force page background and text */
+:root {
+    --color-bg: #ffffff !important;           /* default page background */
+    --color-text: #000000 !important;         /* default text color */
+    --color-header-bg: #000000 !important;    /* header background */
+    --color-header-text: #ffffff !important;  /* header text */
 }
 
-/* Make links/icons in the header white */
-header.site-header a,
-header.navbar a {
+/* Force body and all containers to white/black */
+body, main, .content, .container, .site-wrapper {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+/* Target actual header wrapper */
+.site-header, .navbar, .topbar, .site-nav, header {
+    background-color: #000000 !important; /* pure black */
     color: #ffffff !important;
 }
 
-/* Remove header transparency/overlay if any */
-header.site-header::before,
-header.navbar::before {
-    background: #000000 !important;
+/* Header links */
+.site-header a, .navbar a, .topbar a, .site-nav a {
+    color: #ffffff !important;
 }
 
-/* Main page background white */
-body {
-    background-color: #ffffff !important;
-    color: #000000; /* default text color */
+/* Remove overlays or pseudo-elements */
+.site-header::before,
+.navbar::before,
+.topbar::before,
+header::before {
+    background: none !important;
 }
 
-/* Optional: content containers */
-main, .content, .container {
-    background-color: #ffffff !important;
-}
-
-/* Optional: Footer matches page background (if you want white footer) */
-footer {
+/* Footer white */
+footer, .site-footer {
     background-color: #ffffff !important;
     color: #000000 !important;
 }
