@@ -12,7 +12,7 @@ sections:
       columns: '1'
       background:
         image:
-          filename: background-2.jpg
+          filename: background-4.jpg
         filters:
           brightness: 0
   
