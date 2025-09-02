@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: <br><b>Mental Health and Suicide Prevention Resources</b>
+      title: <br><b><font color="#FFFFFF">Mental Health and Suicide Prevention Resources</font></b>
     design:
       columns: '1'
       background:
