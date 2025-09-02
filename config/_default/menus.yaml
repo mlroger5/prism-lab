@@ -13,6 +13,9 @@ main:
   - name: Publications
     url: https://scholar.google.com/citations?user=3ARhUFoAAAAJ&hl=en
     weight: 50
+  - name: Resources
+    url: Resources
+    weight: 60
   - name: Join
     url: join
-    weight: 60
+    weight: 80
