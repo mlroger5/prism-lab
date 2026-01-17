@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cice Thompson is a recent graduate of Texas State University with a degree in Psychology.
+bio: Cice Thompson was an undergraduate research assistant in the PRISM Lab from August 2024 - August 2025.
 
 #interests:
 #  - Forensic Psychology
@@ -57,9 +57,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate and Post-Baccalaureate Research Assistants
+  - Alumni
+
 ---
 
-Cice Thompson is a recent graduate of Texas State University with a Bachelors of Science degree in Psychology. She plans on perusing her Masters of Arts in Psychology Research and PhD in Clinical Psychology. 
-
-Outside of her work and lab responsibilities, she enjoys all art related hobbies such as drawing, crocheting, and embroidery as well as staying active.
+Cice Thompson was an undergraduate research assistant in the PRISM Lab from August 2024 - August 2025.

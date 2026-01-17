@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lauren Pischinger is a current senior pursuing her Bachelor of Science in Psychology at Texas State University. 
+bio: Lauren Pischinger was an undergraduate research assistant in the PRISM Lab from January 2025 - December 2025. 
 
 #interests:
 #  - Forensic Psychology
@@ -33,7 +33,7 @@ education:
   courses:
     - course: BS in Psychology
       institution: Texas State University
-      year: 2025 (Expected)
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate and Post-Baccalaureate Research Assistants
+  - Alumni
 ---
 
-Lauren Pischinger is a current senior pursuing her Bachelor of Science in Psychology at Texas State University. She plans to seek a master’s degree in clinical psychology after graduation. Her research interests include neuropsychology and traumatic brain injury (TBI) effects on typical functioning.
+Lauren Pischinger was an undergraduate research assistant in the PRISM Lab from January 2025 - December 2025.
