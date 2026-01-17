@@ -67,4 +67,4 @@ John Angulo is an Assistant Professor of Instruction at Texas State University. 
 
 Lecturing has helped him grow professionally, with his ultimate goal now being a PhD in Clinical Psychology. He aims to contribute to the PRISM lab's efforts in understanding suicidal behavior in society, while also expanding his own research experience. 
 
-Outside of academia, John am an avid concert-goer, movie buff, history enthusiast, and hobbyist musician. His goal is to maintain a balance between work and play, as he absolutely loves learning and considers himself a lifelong student.
+Outside of academia, John is an avid concert-goer, movie buff, history enthusiast, and hobbyist musician. His goal is to maintain a balance between work and play, as he absolutely loves learning and considers himself a lifelong student.
