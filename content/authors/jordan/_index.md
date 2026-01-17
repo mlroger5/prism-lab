@@ -33,7 +33,7 @@ education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2025 (Expected)
+      year: 2025
     - course: BA in Liberal Arts and Sciences/Liberal Studies
       institution: California State University, Northridge
       year: 2016
@@ -62,6 +62,6 @@ user_groups:
   - Graduate Research Assistants
 ---
 
-Jordan Ross is currently a graduate student in the MAPR program at Texas State University. His research focuses primarily on depressive and traumatic disorders, particularly within cognitive psychology; his current goal is to leverage automaticity to improve cognitive therapies. Within the PRISM lab, his goal is to contribute to advancing our understanding of factors influencing suicidal behaviors and to help in the development of more effective interventions that target these risks.
+Jordan Ross is a recent graduate of the MAPR program at Texas State University. His research focuses primarily on depressive and traumatic disorders, particularly within cognitive psychology; his current goal is to leverage automaticity to improve cognitive therapies. Within the PRISM lab, his goal is to contribute to advancing our understanding of factors influencing suicidal behaviors and to help in the development of more effective interventions that target these risks.
 
 After completing the MAPR program, Jordan plans to pursue a PhD in Clinical Psychology, striving to balance clinical practice with research. 
