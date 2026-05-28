@@ -66,3 +66,5 @@ Chloe Uelman is a first-year graduate student in the Master of Arts in Psycholog
 After graduating from the MAPR Program, she hopes to pursue a Ph.D. in Clinical Psychology. 
 
 In her free time, Chloe loves reading, going on walks, and spending time with friends.
+
+Chloe currently serves as one of the PRISM Lab Managers.

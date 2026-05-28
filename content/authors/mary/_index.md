@@ -66,4 +66,6 @@ Mary Prochazka is a first-year graduate student in the Master of Arts in Psychol
 
 Upon graduation from the program, Mary aims to obtain a PhD in Clinical Psychology to further this research.
 
-Outside of her studies, Mary enjoys reading, listening to music, and baking
+Outside of her studies, Mary enjoys reading, listening to music, and baking.
+
+Mary currently serves as one of the PRISM Lab Managers.
