@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
     - course: MA in Psychological Research
       institution: Texas State University
-      year: 2026 (Expected)
+      year: 2026
     - course: BS in Psychology
       institution: Texas A&M University - San Antonio
       year: 2023
@@ -42,10 +42,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:ttl33@txstate.edu'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:ttl33@txstate.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -59,12 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Research Assistants
+  - Alumni
 ---
-Taylur Loera is a second-year graduate student in the MAPR program at Texas State University. She previously graduated from Texas A&M University- San Antonio with a Bachelor of Science degree in Psychology. Her research interests include suicide, substance use, and disordered eating.
 
-After completing her masters, Taylur plans to obtain a PhD in Clinical Psychology. 
-
-In her free time, Taylur enjoys yoga and spending time outdoors.
-
-Taylur also currently serves as one of the PRISM Lab Managers.
+Taylur Loera was a graduate research assistant in the PRISM Lab from August 2024 - May 2026. She was also one of the PRISM Lab Managers from May 2025 - May 2026. Following graduation, Taylur is currently employed as a research coordinator at UT Health in San Antonio.
