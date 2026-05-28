@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cice Thompson was an undergraduate research assistant in the PRISM Lab from August 2024 - August 2025.
+bio: Cice Thompson was an undergraduate research assistant in the PRISM Lab from August 2024 - August 2025. She is now entering the MAPR program as a graduate student.
 
 #interests:
 #  - Forensic Psychology
@@ -32,6 +32,9 @@ bio: Cice Thompson was an undergraduate research assistant in the PRISM Lab from
 
 education:
   courses:
+    - course: MA in Psychological Research
+      institution: Texas State University
+      year: 2028 (Expected)
     - course: BA in Psychology
       institution: Texas State University
       year: 2025
@@ -57,8 +60,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Graduate Research Assistants
 
 ---
 
-Cice Thompson was an undergraduate research assistant in the PRISM Lab from August 2024 - August 2025.
+Cice Thompson was an undergraduate research assistant in the PRISM Lab from August 2024 - August 2025. She is now returning as a graduate research assistant, starting the MA in Psychological Research program at Texas State University in the fall of 2026. Cice is interested in studying suicidal ambivalence and aggression.

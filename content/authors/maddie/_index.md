@@ -34,7 +34,7 @@ education:
   courses:
     - course: BA in Psychology and BS in Criminal Justice
       institution: Texas State University
-      year: 2026 (Expected)
+      year: 2026 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,4 +60,4 @@ user_groups:
   - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
-Maddie Wootan is a student at Texas State University, with a double major in Psychology and Criminal Justice. She is currently completing a funded research fellowship examining the association between intimate partner violence and suicide-related outcomes among at-risk college students. She enjoys live music, hanging out with her friends, and anything true crime.
+Maddie Wootan is a student at Texas State University, with a double major in Psychology and Criminal Justice. She is currently completing a funded research fellowship examining the association between intimate partner violence and suicide-related outcomes among at-risk college students. Starting in the fall of 2026, Maddie will begin the MA in Criminal Justice program at Texas State University. She enjoys live music, hanging out with her friends, and anything true crime.
