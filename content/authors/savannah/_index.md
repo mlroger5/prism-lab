@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Research Assistant
+  - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
 Savannah Zisler is pursuing her Bachelors of Science degree in psychology with a minor in anthropology. After graduation, she plans to pursue graduate studies in clinical psychology or neuropsychology. Her research interests include isolation, suicide prevention, aging populations, and the cognitive impacts of algorithmic social media platforms.
