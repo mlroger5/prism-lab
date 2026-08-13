@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -56,9 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate and Post-Baccalaureate Research Assistants
+  - Alumni
 ---
 
-Paige Shunn is in her sophomore year at Texas State University pursuing her Bachelor of Arts in Psychology. 
-
-Outside of academics, Paige enjoys reading horror/thriller books, cooking, making art, writing, and spending time with her two cats, Dexter and Aurora.
+Paige was an undergraduate research assistant in the PRISM Lab from January 2026 - July 2026.

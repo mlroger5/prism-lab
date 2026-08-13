@@ -33,7 +33,7 @@ education:
   courses:
     - course: BA in Psychology
       institution: Texas State University
-      year: 2027 (Expected)
+      year: 2028 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,6 +59,6 @@ user_groups:
   - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
-Ella Carr is in her second year at Texas State University pursuing her Bachelor of Arts in Psychology with a minor in Human Development and Family Sciences. After graduation she plans to go to graduate school in order to seek a master’s or PhD in Clinical Psychology. Her final goal is to become a adolescent psychologist. Her research interests include suicide, mental health awareness, and psychopathology. 
+Ella Carr is a junior at Texas State University pursuing her Bachelor of Arts in Psychology with a minor in Human Development and Family Sciences and Social Work. After graduation she plans to go to graduate school in order to seek a master’s or PhD in Counseling or Child Psychology. Her research interests include suicide, mental health awareness, and psychopathology. 
 
 Outside of academics, Ella enjoys baking, crafting, and playing with her kitten.

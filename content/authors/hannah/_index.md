@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Research Faculty/Staff
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Research Assistants
+  - Research Faculty/Staff
 ---
 
 Hannah is a recent graduate of the MA in Psychological Research program at Texas State University. Her research interests focus on how healthcare practices impact mental health outcomes, with a particular emphasis on suicidality and nondisclosure among aging populations. 

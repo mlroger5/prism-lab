@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
     - course: BA in Psychology
       institution: Texas State University
-      year: 2026 (Expected)
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,9 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate and Post-Baccalaureate Research Assistants
+  - Alumni
 ---
 
-Ayrika Thomas is a senior undergraduate student pursuing her Bachelor of Arts in Psychology with a minor in Human Development and Family Sciences at Texas State University. After graduation, she plans to apply to graduate school and continue on to get a doctorate degree. Her research interests are suicide and substance abuse. Once finished with her education, she wants to become a Clinical Psychologist. 
-
-In her free time, she enjoys trying various cultures' cuisines with friends and listening to music.
+Ayrika Thomas was an undergraduate research assistant in the PRISM Lab from August 2025 - July 2026.

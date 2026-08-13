@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Faculty
+role: Research Faculty/Staff
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Faculty
+  - Research Faculty/Staff
 ---
 
 John Angulo is an Assistant Professor of Instruction at Texas State University. He has a passion for education and working with students, stemming from his experience as a Supplemental Instructor during undergrad and teaching through his master’s degree. His research interests include resilience, applied ethics in counseling, cognitive psychology, and psychopathology, with a focus on suicidal behavior. 

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Maddie Wootan
+title: Sophia Howard
 
 # Full name (for SEO)
-first_name: Maddie
-last_name: Wootan
+first_name: Sophia
+last_name: Howard
 
 # Username (this should match the folder name)
 authors:
-  - maddie
+  - sophia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Alumni
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Olivia’s research interests include suicide, substance use, and psychopathology, with a primary focus on the experiences of justice-involved individuals.
+bio: Sophia Howard is a current undergraduate student pursuing her Bachelor of Arts in Psychology at Texas State University. 
 
 #interests:
 #  - Forensic Psychology
-#  - Suicide
 #  - Substance Use
 #  - Psychopathology
 
 education:
   courses:
-    - course: BA in Psychology and BS in Criminal Justice
+    - course: BA in Psychology
       institution: Texas State University
-      year: 2026 
+      year: 2029 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,7 +56,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
-Maddie Wootan was an undergraduate research assistant in the PRISM Lab from May 2024 - July 2026. She is currently pursuing a MA in Criminal Justice at Texas State University, with plans to pursue a PhD in Clinical Psychology (with an emphasis in forensic psychology).
+Sophia Howard is pursuing a Bachelors of Science in Psychology with a double minor in Biology and Sociology. After graduating, she plans to pursue a Masters in Neuroscience and a PhD in Clinical Psychology. Her research interests are suicide, neurodevelopmental disorders, and neuropsychology.
+
+Outside of academics, Sophia enjoys doing puzzles, hanging out with friends, and taking care of her cat.

@@ -21,7 +21,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigator
-          - Research Faculty
+          - Research Faculty/Staff
           - Graduate Research Assistants
           - Undergraduate and Post-Baccalaureate Research Assistants
           - Alumni
