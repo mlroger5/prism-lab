@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Brianna Davis
+title: Nyx Schexnayder
 
 # Full name (for SEO)
-first_name: Brianna
-last_name: Davis
+first_name: Nyx
+last_name: Schexnayder
 
 # Username (this should match the folder name)
 authors:
-  - brianna
+  - nyx
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brianna Davis is a current undergraduate student pursuing her Bachelor of Science in Psychology at Texas State University. 
+bio: Nyx Schexnayder is a current undergraduate student pursuing their Bachelor of Arts in Psychology at Texas State University. 
 
 #interests:
 #  - Forensic Psychology
@@ -31,7 +31,7 @@ bio: Brianna Davis is a current undergraduate student pursuing her Bachelor of S
 
 education:
   courses:
-    - course: BS in Psychology
+    - course: BA in Psychology
       institution: Texas State University
       year: 2027 (Expected)
 
@@ -59,4 +59,6 @@ user_groups:
   - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
-Brianna Davis is a senior pursuing her Bachelor of Science in Psychology at Texas State University. She is majoring in psychology with a minor in business administration. After graduation, she plans on applying for graduate school, seeking a PhD degree in Clinical Psychology, and her research interests include suicide, trauma, and substance abuse.
+Nyx Schexnayder is a senior pursuing a Bachelors of Science in Psychology with a double minor in Biology and History. They are the 2026-2027 Vice President of Texas State’s Psi Chi chapter. After graduating, they plan to go to graduate school, with the end goal of a PhD in Clinical Adolescent Psychology. Their research interests include autism, child development and psychopathology, suicide, neurodevelopmental disorders, and social cognition. 
+
+Outside of school, Nyx enjoys crocheting, reading, and befriending every cat they see.

@@ -59,6 +59,6 @@ user_groups:
   - Undergraduate and Post-Baccalaureate Research Assistants
 ---
 
-Lola McDonald is a sophomore at Texas State University pursuing a Bachelor of Science in Psychology with a minor in Biology. Her research interests focus on how early childhood experiences shape brain development, cognition, and mental health outcomes. She plans to pursue a PhD in Neuropsychology, with the long-term goal of conducting research that informs effective interventions for mental health. 
+Lola McDonald is a junior at Texas State University pursuing a Bachelor of Science in Psychology with a minor in Biology and Data Analytics. Her research interests focus on how adverse childhood experiences shape self-concept, contribute to dissociation, and influence long-term mental health outcomes. She plans to pursue a PhD in Quantitative Psychology or Psychopathology, with the goal of improving how trauma-related disorders like complex PTSD are diagnosed, measured, and understood. 
 
-In her free time, Lola enjoys spending time with friends, caring for her two dogs, and watching movies.
+In her free time, Lola enjoys spending time with friends, traveling, and watching movies.
