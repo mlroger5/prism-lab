@@ -31,7 +31,7 @@ bio: Nyx Schexnayder is a current undergraduate student pursuing their Bachelor 
 
 education:
   courses:
-    - course: BA in Psychology
+    - course: BS in Psychology
       institution: Texas State University
       year: 2027 (Expected)
 
