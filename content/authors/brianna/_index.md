@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate and Post-Baccalaureate Research Assistants
+  - Alumni
 ---
 
-Brianna Davis is a senior pursuing her Bachelor of Science in Psychology at Texas State University. She is majoring in psychology with a minor in business administration. After graduation, she plans on applying for graduate school, seeking a PhD degree in Clinical Psychology, and her research interests include suicide, trauma, and substance abuse.
+Brianna Davis was an undergraduate research assistant in the PRISM Lab from August 2025 - August 2026.
